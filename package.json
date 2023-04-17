@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cryptum-sdk": "^0.0.48"
+  }
+}
